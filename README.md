@@ -2,9 +2,9 @@
 
 Welcome to my ✨ GitHub ✨ !
 
-- 🔭 I’m currently studying Computer Science at the University of Arizona
-- 🌱 I’m currently a Student Developer on campus
+- 🔭 I’m an Incoming Machine learning Graduate Student at the University of Arizona
+- 🌱 I’m currently a DevOps Engineer II
 - 💖 Interests: 
   - Writing / Technical Writing
-  - Machine Learning / Artifical Intelligence
+  - Machine Learning / Artifical Intelligence / Sentiment AI
   - Human Computer Interaction / Human Centered Design
