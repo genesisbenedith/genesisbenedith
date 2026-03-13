@@ -3,8 +3,8 @@
 Welcome to my ✨ GitHub ✨ !
 
 - 🔭 I’m an Incoming Machine learning Graduate Student at the University of Arizona
-- 🌱 I’m currently a DevOps Engineer II
+- 🌱 I’m currently a DevOps Engineer II in energy & sustainability tech
 - 💖 Interests: 
-  - Writing / Technical Writing
+  - Creative Writing / Science Writing
   - Machine Learning / Artifical Intelligence / Sentiment AI
-  - Human Computer Interaction / Human Centered Design
+  - Human-Computer Interaction / Human-Centered Design / Human-Centered Computing
