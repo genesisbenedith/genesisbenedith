@@ -1,10 +1,35 @@
-## Hi there, I'm Genesis 👋🏾
+# Hi, I'm Genesis 👋🏾
 
-Welcome to my ✨ GitHub ✨ !
+DevOps Engineer II focused on cloud automation, infrastructure engineering, platform reliability, and emerging MLOps systems.
 
-- 🔭 I’m an Incoming Machine learning Graduate Student at the University of Arizona
-- 🌱 I’m currently a DevOps Engineer II in energy & sustainability tech
-- 💖 Interests: 
-  - Creative Writing / Science Writing
-  - Machine Learning / Artifical Intelligence / Sentiment AI
-  - Human-Computer Interaction / Human-Centered Design / Human-Centered Computing
+🎓 B.A. Computer Science, University of Arizona (2025)
+🎓 M.S. Information Science (Machine Learning), University of Arizona (2027)
+
+### Areas of Focus
+- DevOps & Platform Engineering
+- Infrastructure Automation
+- Cloud & Observability
+- MLOps & AI Infrastructure
+- Human-Centered AI Systems
+
+### Current Work
+- Infrastructure automation with PowerShell & Ansible
+- KPI and observability pipelines
+- Secure API development
+- AI/ML experimentation and portfolio projects
+
+## Featured Projects
+
+**Tech Event Notes**
+Public knowledge repository for engineers and students.
+
+**HiveScript**
+Collaborative coding IDE built as a full-stack application.
+
+---
+
+## Just for Fun
+
+**Love Island S8 — MASH**
+A browser-based MASH game built in React + Vite around the real Season 8 Fiji cast.
+Pick your islanders, draw the spiral, and find out your fate. → [Play it](https://genesisbenedith.github.io/projects/love-island-s8-mash/)
